@@ -1,0 +1,12 @@
+### Footprint positions - created on 2025-06-26T15:31:10+0800 ###
+### Printed by KiCad version 9.0.2
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val          Package                              PosX       PosY       Rot  Side
+C7        Cpol_1000uF  CP_Radial_D10.0mm_P5.00mm        101.0000   -61.0233  -90.0000  bottom
+D8        1N5822       D_DO-201AD_P15.24mm_Horizontal    89.5000   -60.8910  180.0000  bottom
+D9        1N5822       D_DO-201AD_P15.24mm_Horizontal    65.0000   -55.7010   90.0000  bottom
+D10       1N5822       D_DO-201AD_P15.24mm_Horizontal    81.5000   -55.7010   90.0000  bottom
+D11       1N5822       D_DO-201AD_P15.24mm_Horizontal    74.3800   -69.3910    0.0000  bottom
+D12       1N5822       D_DO-201AD_P15.24mm_Horizontal    55.3650   -67.0360   90.0000  bottom
+## End
