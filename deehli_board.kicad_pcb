@@ -27257,7 +27257,7 @@
 		)
 	)
 	(gr_text "Gnd"
-		(at 33.5 67.5 90)
+		(at 33.25 64.5 90)
 		(layer "F.SilkS")
 		(uuid "91037a67-73f6-40c9-b57e-63da7adc43fd")
 		(effects
@@ -27295,7 +27295,7 @@
 		)
 	)
 	(gr_text "IN"
-		(at 33.5 63.75 90)
+		(at 33.6 66.5 90)
 		(layer "F.SilkS")
 		(uuid "c5a0bfa9-6c98-4069-927d-3d2f34fbce03")
 		(effects
