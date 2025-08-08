@@ -27,5 +27,6 @@ The opensurgbot was temporarily named _deehli_, and the board design has not bee
 <img width="1003" height="660" alt="image" src="https://github.com/user-attachments/assets/888c54b8-9cd3-45e6-92a2-86213b36e4d0" />
 
 ### vB-1.03
-<img width="1003" height="660" alt="image" src="https://github.com/user-attachments/assets/65e30620-d5ad-41f3-8483-7e7c905474fb" />
+<img width="1960" height="1352" alt="image" src="https://github.com/user-attachments/assets/7e788e62-8eea-4069-a891-5018d96105e3" />
 <img width="1324" height="859" alt="image" src="https://github.com/user-attachments/assets/999e6b4d-a5fa-48b6-a36f-e3d5f2661ae4" />
+
