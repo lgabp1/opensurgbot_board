@@ -1,5 +1,7 @@
 # opensurgbot_board
 
+Submodule of [opensurgbot](https://github.com/lgabp1/opensurgbot).
+
 Board design for the opensurgbot first prototype.
 
 ## About
